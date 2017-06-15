@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Get Old Twitter Back
-// @namespace    http://tampermonkey.net/
+// @namespace    https://cternus.net
 // @version      0.1.3
 // @description  Remove new rounded Twitter styling
 // @author       ternus
