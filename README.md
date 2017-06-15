@@ -5,7 +5,11 @@ Twitter reverts to the old style! This is a single-line userscript that does tha
 
 You'll need a userscript manager such as [Tampermonkey](https://tampermonkey.net) to install it. 
 
-## Tampermonkey Instructions
+## Simple Instructions
+
+With Tampermonkey/Greasemonkey installed, *[click here to install](https://github.com/ternus/old-twitter/raw/master/old-twitter.user.js)*.
+
+## Manual Instructions
 
 1. Open up the Tampermonkey dashboard.
 2. Go to the [Utilities tab](chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=utils).
