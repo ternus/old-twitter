@@ -9,7 +9,7 @@ You'll need a userscript manager such as [Tampermonkey](https://tampermonkey.net
 
 1. Open up the Tampermonkey dashboard.
 2. Go to the [Utilities tab](chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=utils).
-3. Paste `https://raw.githubusercontent.com/ternus/old-twitter/master/old-twitter.js` in the 'URL' box and click "Import".
+3. Paste `https://raw.githubusercontent.com/ternus/old-twitter/master/old-twitter.user.js` in the 'URL' box and click "Import".
 4. That's it!
 
 ## Disclaimer
