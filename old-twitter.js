@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Get Old Twitter Back
 // @namespace    https://cternus.net
-// @version      0.1.6
+// @version      0.1.7
 // @description  Remove new rounded Twitter styling
 // @author       ternus
 // @match        https://twitter.com/*
+// @match        https://www.twitter.com/*
 // @homepage     https://github.com/ternus/old-twitter
-// @run-at       document-start
+// @run-at       document-body
 // @grant        none
 // ==/UserScript==
 
